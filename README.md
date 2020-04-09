@@ -7,3 +7,4 @@ This is a changelog
 
 # Added some additional stuff via fork.
 Pull request example.
+# Added New Stuff | Manas 
